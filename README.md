@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi Bo Bo 👋
 
-<!--
-**wule1201000/wule1201000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Communities :dancers:
+- Contributer at [Student Code-in](https://scodein.tech/) ( An Open Source organization.)
+- Contributer at [PClub Summer Of Code](http://pclubsummerofcode.in/) ( ( An Open Source organization.)
+- Campus Ambassador at [HackerEarth](https://www.hackerearth.com/challenges/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies :fire:
+- Data Analysis with **Python**.
+- Data Science.
+- Mobile application development using **Android (Java)**.
+- Python.
+- Java
+- Competitive Programming.
+- Machine Learning
+- Deep Learning
+
+
+
